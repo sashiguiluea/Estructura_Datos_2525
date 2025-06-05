@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
+
 /// <summary>
 /// Clase que representa un Rectángulo y encapsula sus propiedades primitivas
 /// </summary>
