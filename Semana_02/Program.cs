@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//programa que permite calcular el área y perímetro de figuras geométricas como Rectángulo y Círculo
+
 /// <summary>
 /// Clase que representa un Rectángulo y encapsula sus propiedades primitivas
 /// </summary>
@@ -81,11 +81,11 @@ class Program
         do
         {
             Console.Clear();
-            Console.WriteLine("Seleccione una figura geométrica para calcular su área y perímetro P:");
+            Console.WriteLine("Seleccione una figura geométrica para calcular su área y perímetro:");
             Console.WriteLine("1. Rectángulo");
             Console.WriteLine("2. Círculo");
             Console.WriteLine("3. Salir");
-            Console.Write("Opción:");
+            Console.Write("Opción: ");
 
             try
             {
